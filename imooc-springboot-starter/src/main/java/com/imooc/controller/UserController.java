@@ -30,7 +30,7 @@ public class UserController {
 		user.setBirthday(new Date());
 		user.setPassword("imooc");
 //		user.setDesc(null);
-		user.setDesc("hello imooc~~");
+		user.setDesc("hello imooc2~~");
 		return user;
 	}
 	
