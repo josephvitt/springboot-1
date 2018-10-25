@@ -15,3 +15,6 @@ templates目录:放模板的thymeleaf、freemarker、JSP但是官方不建议使
 # SpringBoot-3
 ## springboot 资源文件属性配置
 ### 资源文件的属性配置与映射到实体类
+
+## springboot 资源文件配置server
+### 资源文件配置server
