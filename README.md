@@ -11,3 +11,7 @@ templates目录:放模板的thymeleaf、freemarker、JSP但是官方不建议使
 # SpringBoot-3
 ## springboot 开发环境热部署
 ### springboot 使用devtools进行热部署
+
+# SpringBoot-3
+## springboot 资源文件属性配置
+### 资源文件的属性配置与映射到实体类
