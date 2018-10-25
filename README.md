@@ -6,4 +6,4 @@ templates目录:放模板的thymeleaf、freemarker、JSP但是官方不建议使
 # springboot-2
 ##springboot 响应客户端渲染数据
 ###springboot构造并且返回一个json对象
-
+###Jackson的基本演绎法
